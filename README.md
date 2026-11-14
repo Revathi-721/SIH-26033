@@ -1,4 +1,4 @@
-<img width="1536" height="1024" alt="Digital Marketplace_ Farm to Freshness" src="https://github.com/user-attachments/assets/0aba2fde-cdb4-4b92-a938-a193dc4ad56e" /># Smart India Hackathon Workshop
+
 # Date:14.11.2026
 ## Reference Number: 26017981
 ## Name: Revathi K
