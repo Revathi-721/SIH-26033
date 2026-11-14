@@ -1,4 +1,4 @@
-# Smart India Hackathon Workshop
+<img width="1536" height="1024" alt="Digital Marketplace_ Farm to Freshness" src="https://github.com/user-attachments/assets/0aba2fde-cdb4-4b92-a938-a193dc4ad56e" /># Smart India Hackathon Workshop
 # Date:14.11.2026
 ## Reference Number: 26017981
 ## Name: Revathi K
@@ -74,6 +74,7 @@ Operational Feasibility
 Business Viability
 - Revenue can be generated through small transaction fees, logistics partnerships, and subscription plans for bulk buyers.
 - Partnerships with FPOs, agricultural cooperatives, and transport providers can support long-term growth.
+<img width="1536" height="1024" alt="Digital Marketplace_ Farm to Freshness" src="https://github.com/user-attachments/assets/d4620369-4f07-42dd-be04-f66f187a86ba" />
 
 ## Impact and Benefits
 Benefits to Farmers
